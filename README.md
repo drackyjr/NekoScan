@@ -116,12 +116,6 @@ PORT    PROTO   SERVICE        BANNER
 
 ---
 
-## 🙏 Acknowledgments
 
-* `colorama` and `termcolor` for terminal styling
-* ASCII cats for making port scanning cute
-* Python threading and sockets for the scanning engine
-
----
 
 
