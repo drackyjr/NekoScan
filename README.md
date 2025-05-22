@@ -54,7 +54,7 @@ pip install colorama termcolor
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourGitHubUsername/NekoScan.git
+git clone https://github.com/drackyjr/NekoScan.git
 cd NekoScan
 ```
 
@@ -111,7 +111,7 @@ PORT    PROTO   SERVICE        BANNER
 ## 🧑‍💻 Author
 
 **Dracky Jr**
-🔗 GitHub: [YourGitHubUsername](https://github.com/drackyjr)
+🔗 GitHub: [dracky](https://github.com/drackyjr)
 
 
 ---
