@@ -1,10 +1,4 @@
-Here is your complete and polished **`README.md`** file for the **NekoScan** GitHub repository, ready to upload:
 
----
-
-### 📄 `README.md`
-
-```markdown
 # 🐾 NekoScan - Port Scanner
 
 **NekoScan** is a fast, colorful, and fun terminal-based **TCP port scanner** with animated ASCII cats and live port discovery.  
