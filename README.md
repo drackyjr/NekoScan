@@ -23,7 +23,7 @@ Built with love by **Dracky Jr**, this tool combines performance with a playful 
 
 ```
  /\_/\
-( ^.^ )  < Scanning...
+( ^.^ )  < Scanning..
  > ^ <
 ```
 
