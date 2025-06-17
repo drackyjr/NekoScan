@@ -11,7 +11,7 @@ init(autoreset=True)
 
 # === CONFIGURATION ===
 start_port = 1
-end_port = 10000
+end_port = 65000
 threads = 1000
 queue = Queue()
 open_ports = []
