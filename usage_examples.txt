@@ -1,0 +1,19 @@
+# TCP Port Scanner Usage Examples
+
+# Basic scan of common ports
+./tcp_scanner.sh 192.168.1.1
+
+# Verbose scan with custom timeout
+./tcp_scanner.sh -v -t 5 google.com
+
+# Full port scan (all 65535 ports) with output to file
+./tcp_scanner.sh -f -o scan_results.txt 10.0.0.1
+
+# Quick stealth scan of specific ports
+./tcp_scanner.sh -s -p 22,80,443,8080 example.com
+
+# Scan with custom port range and show closed ports
+./tcp_scanner.sh -c -p 1-1000 192.168.1.100
+
+# High-speed scan with more threads
+./tcp_scanner.sh -T 100 -p 1-65535 target.com
